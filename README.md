@@ -111,7 +111,7 @@ Created an interactive Excel dashboard to present key churn metrics and customer
 - Correlation indicates association, not causation.
 
 ## Dashboard 
-- 
+- 'Telco_Dashboard.png'
 
 **Data Analyst Portfolio Project**
 
