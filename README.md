@@ -110,8 +110,10 @@ Created an interactive Excel dashboard to present key churn metrics and customer
 - The dataset does not contain actual churn dates, so a genuine monthly churn trend could not be calculated.
 - Correlation indicates association, not causation.
 
-## Dashboard 
-- 'Telco_Dashboard.png'
+## 📊 Dashboard Preview
+
+![Telco Customer Churn Dashboard](Telco_Dashboard.png)
+
 
 **Data Analyst Portfolio Project**
 
